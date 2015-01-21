@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Executables>
+   <name_software_1 path="/path_to_soft_1"/>
+   <name_software_2 path="/path_to_soft_2"/>
+   <name_software_3 path="/path_to_soft_3">
+</Executables>
